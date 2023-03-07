@@ -1,5 +1,6 @@
 # OpenWRT-CLI-SSH-Onload-Info-Script
 OpenWRT 22.03 CLI/SSH My personal login information script for Asus RT-AX53U
+
 ![ss1](https://user-images.githubusercontent.com/85984736/223528502-2230d915-a436-4726-ad4c-c4c6d1f2ecbf.png)
 </br>
 1) USA/NSA Prism Logo/ASCII Art from /etc/banner -> https://github.com/semazurek/OpenWRT-Banner-NSA
@@ -62,5 +63,5 @@ vi /etc/profile
 ```
 
 ```shell
-[ -f /etc/banner ] && cat /etc/banner && /etc/init.d/takeoff.sh start
+[ -f /etc/banner ] && cat /etc/banner && /etc/init.d/takeoff start
 ```
