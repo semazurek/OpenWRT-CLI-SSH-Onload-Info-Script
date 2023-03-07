@@ -49,7 +49,7 @@ stop() {
 3) Making it executable:
 
 ```shell
-chmod +x /etc/init.d/takeoff
+chmod +x /etc/init.d/takeoff.sh
 ```
 
 4) Enable takeoff service:
