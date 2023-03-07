@@ -46,19 +46,19 @@ stop() {
 }
 ```
 
-3)Making it executable:
+3) Making it executable:
 
 ```shell
 chmod +x /etc/init.d/takeoff
 ```
 
-4)Enable takeoff service:
+4) Enable takeoff service:
 
 ```shell
 service takeoff enable
 ```
 
-5)Adding **&& /etc/init.d/takeoff.sh** into /etc/profile:
+5) Adding **&& /etc/init.d/takeoff.sh** into /etc/profile:
 
 ```shell
 vi /etc/profile
