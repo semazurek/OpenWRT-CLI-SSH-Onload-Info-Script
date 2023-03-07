@@ -1,5 +1,7 @@
 # OpenWRT-CLI-SSH-Onload-Info-Script
-My personal after SSH/UCI authorization info script about CPU/RAM/HDD/DHCP connected devices via WiFi for Asus RT-AX53U OpenWRT 22.03 CLI/SSH.
+My personal after SSH/UCI authorization info script about CPU/RAM/HDD/DHCP connected devices via WiFi 
+</br>
+Asus RT-AX53U OpenWRT 22.03 CLI/SSH.
 
 ![ss1](https://user-images.githubusercontent.com/85984736/223528502-2230d915-a436-4726-ad4c-c4c6d1f2ecbf.png)
 </br>
